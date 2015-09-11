@@ -4,7 +4,7 @@
 public class ContiguousChains {
 
     public static void main(String args[]){
-
+        int pleb = 12;
     }
 
 }
